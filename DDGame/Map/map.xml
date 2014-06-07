@@ -1,0 +1,2585 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Map>
+    <mapList>
+        <mapName>firstmap</mapName>
+        <pathMap>
+            <entry>
+                <key>1</key>
+                <value>
+                    <chest>false</chest>
+                    <location>1</location>
+                    <endTile>false</endTile>
+                    <startTile>true</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>8</key>
+                <value>
+                    <chest>false</chest>
+                    <location>8</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>9</key>
+                <value>
+                    <chest>false</chest>
+                    <location>9</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>10</key>
+                <value>
+                    <chest>false</chest>
+                    <location>10</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>16</key>
+                <value>
+                    <chest>false</chest>
+                    <location>16</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>23</key>
+                <value>
+                    <chest>false</chest>
+                    <location>23</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>24</key>
+                <value>
+                    <chest>false</chest>
+                    <location>24</location>
+                    <enemy>
+                        <type>Tank</type>
+                        <imagePath>monster3.gif</imagePath>
+                        <name>TerribleAkash</name>
+                        <health>10</health>
+                        <constitutionModifier>3</constitutionModifier>
+                        <strengthModifier>0</strengthModifier>
+                        <dexterityModifier>2</dexterityModifier>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <charismaModifier>0</charismaModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <level>2</level>
+                        <strength>10</strength>
+                        <constitution>16</constitution>
+                        <intelligence>13</intelligence>
+                        <charisma>17</charisma>
+                        <vitality>0</vitality>
+                        <inventory>
+                            <equippedWeapon>
+<name>Weapons</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>0</armourPts>
+<weaponType>Melee Weapon</weaponType>
+<attackRange>2</attackRange>
+<attackPts>2</attackPts>
+                            </equippedWeapon>
+                            <chest>
+<name>Armourr</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>4</armourPts>
+<armourType>chest</armourType>
+                            </chest>
+                            <shield>
+<name>Armour</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>2</armourPts>
+<armourType>helmet</armourType>
+                            </shield>
+                            <items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="weapon">
+<name>Weaponsss</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>0</armourPts>
+<weaponType>Ranged Weapon</weaponType>
+<attackRange>2</attackRange>
+<attackPts>2</attackPts>
+                            </items>
+                        </inventory>
+                        <dexterity>15</dexterity>
+                        <wisdom>11</wisdom>
+                        <attackedByPlayer>false</attackedByPlayer>
+                    </enemy>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>30</key>
+                <value>
+                    <chest>false</chest>
+                    <location>30</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>31</key>
+                <value>
+                    <chest>false</chest>
+                    <location>31</location>
+                    <endTile>true</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+        </pathMap>
+        <userLocation/>
+        <startPointInfo>1</startPointInfo>
+        <rows>7</rows>
+        <columns>7</columns>
+    </mapList>
+    <mapList>
+        <mapName>mapfirst1</mapName>
+        <pathMap>
+            <entry>
+                <key>1</key>
+                <value>
+                    <chest>false</chest>
+                    <location>1</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>8</key>
+                <value>
+                    <chest>true</chest>
+                    <location>8</location>
+                    <ring>
+                        <name>Ring1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>5</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>0</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>Wisdom</modifierInForce>
+                        <incHealth>0</incHealth>
+                        <incArmour>0</incArmour>
+                        <incAttack>0</incAttack>
+                    </ring>
+                    <weapon>
+                        <name>Weapon 1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>5</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>damage</modifierInForce>
+                        <attackRange>0</attackRange>
+                        <attackPts>0</attackPts>
+                    </weapon>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>9</key>
+                <value>
+                    <chest>false</chest>
+                    <location>9</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>10</key>
+                <value>
+                    <chest>true</chest>
+                    <location>10</location>
+                    <ring>
+                        <name>Ring1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>5</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>0</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>Wisdom</modifierInForce>
+                        <incHealth>0</incHealth>
+                        <incArmour>0</incArmour>
+                        <incAttack>0</incAttack>
+                    </ring>
+                    <armour>
+                        <name>Armr1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>5</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>Dexterity</modifierInForce>
+                    </armour>
+                    <weapon>
+                        <name>Weapon 1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>5</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>damage</modifierInForce>
+                        <attackRange>0</attackRange>
+                        <attackPts>0</attackPts>
+                    </weapon>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>16</key>
+                <value>
+                    <chest>false</chest>
+                    <location>16</location>
+                    <player>
+                        <type>Bully</type>
+                        <imagePath>Hero1.gif</imagePath>
+                        <name>Akash</name>
+                        <health>49</health>
+                        <constitutionModifier>2</constitutionModifier>
+                        <strengthModifier>3</strengthModifier>
+                        <dexterityModifier>0</dexterityModifier>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <charismaModifier>0</charismaModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <level>3</level>
+                        <strength>17</strength>
+                        <constitution>14</constitution>
+                        <intelligence>15</intelligence>
+                        <charisma>20</charisma>
+                        <vitality>0</vitality>
+                        <inventory>
+                            <equippedWeapon>
+<name>Weapons</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>0</armourPts>
+<weaponType>Melee Weapon</weaponType>
+<attackRange>2</attackRange>
+<attackPts>2</attackPts>
+                            </equippedWeapon>
+                            <chest>
+<name>Armourr</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>4</armourPts>
+<armourType>chest</armourType>
+                            </chest>
+                            <shield>
+<name>Armour</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>2</armourPts>
+<armourType>helmet</armourType>
+                            </shield>
+                            <items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="weapon">
+<name>Weaponsss</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>0</armourPts>
+<weaponType>Ranged Weapon</weaponType>
+<attackRange>2</attackRange>
+<attackPts>2</attackPts>
+                            </items>
+                            <items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="armour">
+<name>Armr1</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>5</dexterityModifer>
+<armourPts>0</armourPts>
+<modifierInForce>Dexterity</modifierInForce>
+                            </items>
+                        </inventory>
+                        <dexterity>10</dexterity>
+                        <wisdom>13</wisdom>
+                        <attackedByPlayer>false</attackedByPlayer>
+                    </player>
+                    <endTile>false</endTile>
+                    <startTile>true</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>23</key>
+                <value>
+                    <chest>false</chest>
+                    <location>23</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>24</key>
+                <value>
+                    <chest>false</chest>
+                    <location>24</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>30</key>
+                <value>
+                    <chest>false</chest>
+                    <location>30</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>31</key>
+                <value>
+                    <chest>false</chest>
+                    <location>31</location>
+                    <endTile>true</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+        </pathMap>
+        <userLocation>
+            <entry>
+                <key>0</key>
+                <value>16</value>
+            </entry>
+        </userLocation>
+        <rows>7</rows>
+        <columns>7</columns>
+    </mapList>
+    <mapList>
+        <mapName>thisisfirsthit</mapName>
+        <pathMap>
+            <entry>
+                <key>1</key>
+                <value>
+                    <chest>false</chest>
+                    <location>1</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>8</key>
+                <value>
+                    <chest>true</chest>
+                    <location>8</location>
+                    <ring>
+                        <name>Ring1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>5</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>0</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>Wisdom</modifierInForce>
+                        <incHealth>0</incHealth>
+                        <incArmour>0</incArmour>
+                        <incAttack>0</incAttack>
+                    </ring>
+                    <weapon>
+                        <name>Weapon 1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>5</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>damage</modifierInForce>
+                        <attackRange>0</attackRange>
+                        <attackPts>0</attackPts>
+                    </weapon>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>9</key>
+                <value>
+                    <chest>false</chest>
+                    <location>9</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>10</key>
+                <value>
+                    <chest>true</chest>
+                    <location>10</location>
+                    <ring>
+                        <name>Ring1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>5</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>0</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>Wisdom</modifierInForce>
+                        <incHealth>0</incHealth>
+                        <incArmour>0</incArmour>
+                        <incAttack>0</incAttack>
+                    </ring>
+                    <armour>
+                        <name>Armr1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>5</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>Dexterity</modifierInForce>
+                    </armour>
+                    <weapon>
+                        <name>Weapon 1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>5</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>damage</modifierInForce>
+                        <attackRange>0</attackRange>
+                        <attackPts>0</attackPts>
+                    </weapon>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>16</key>
+                <value>
+                    <chest>false</chest>
+                    <location>16</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>23</key>
+                <value>
+                    <chest>false</chest>
+                    <location>23</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>24</key>
+                <value>
+                    <chest>false</chest>
+                    <location>24</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>30</key>
+                <value>
+                    <chest>false</chest>
+                    <location>30</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>31</key>
+                <value>
+                    <chest>false</chest>
+                    <location>31</location>
+                    <endTile>true</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+        </pathMap>
+        <userLocation>
+            <entry>
+                <key>0</key>
+                <value>8</value>
+            </entry>
+        </userLocation>
+        <rows>7</rows>
+        <columns>7</columns>
+    </mapList>
+    <mapList>
+        <mapName>guyisdead</mapName>
+        <pathMap>
+            <entry>
+                <key>1</key>
+                <value>
+                    <chest>false</chest>
+                    <location>1</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>8</key>
+                <value>
+                    <chest>true</chest>
+                    <location>8</location>
+                    <player>
+                        <type>Bully</type>
+                        <imagePath>Hero1.gif</imagePath>
+                        <name>Akash</name>
+                        <health>52</health>
+                        <constitutionModifier>2</constitutionModifier>
+                        <strengthModifier>3</strengthModifier>
+                        <dexterityModifier>0</dexterityModifier>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <charismaModifier>0</charismaModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <level>3</level>
+                        <strength>17</strength>
+                        <constitution>14</constitution>
+                        <intelligence>15</intelligence>
+                        <charisma>20</charisma>
+                        <vitality>0</vitality>
+                        <inventory>
+                            <equippedWeapon>
+<name>Weapons</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>0</armourPts>
+<weaponType>Melee Weapon</weaponType>
+<attackRange>2</attackRange>
+<attackPts>2</attackPts>
+                            </equippedWeapon>
+                            <chest>
+<name>Armourr</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>4</armourPts>
+<armourType>chest</armourType>
+                            </chest>
+                            <shield>
+<name>Armour</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>2</armourPts>
+<armourType>helmet</armourType>
+                            </shield>
+                            <items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="weapon">
+<name>Weaponsss</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>0</armourPts>
+<weaponType>Ranged Weapon</weaponType>
+<attackRange>2</attackRange>
+<attackPts>2</attackPts>
+                            </items>
+                            <items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="armour">
+<name>Armr1</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>5</dexterityModifer>
+<armourPts>0</armourPts>
+<modifierInForce>Dexterity</modifierInForce>
+                            </items>
+                        </inventory>
+                        <dexterity>10</dexterity>
+                        <wisdom>13</wisdom>
+                        <attackedByPlayer>false</attackedByPlayer>
+                    </player>
+                    <ring>
+                        <name>Ring1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>5</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>0</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>Wisdom</modifierInForce>
+                        <incHealth>0</incHealth>
+                        <incArmour>0</incArmour>
+                        <incAttack>0</incAttack>
+                    </ring>
+                    <weapon>
+                        <name>Weapon 1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>5</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>damage</modifierInForce>
+                        <attackRange>0</attackRange>
+                        <attackPts>0</attackPts>
+                    </weapon>
+                    <endTile>false</endTile>
+                    <startTile>true</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>9</key>
+                <value>
+                    <chest>false</chest>
+                    <location>9</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>10</key>
+                <value>
+                    <chest>true</chest>
+                    <location>10</location>
+                    <ring>
+                        <name>Ring1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>5</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>0</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>Wisdom</modifierInForce>
+                        <incHealth>0</incHealth>
+                        <incArmour>0</incArmour>
+                        <incAttack>0</incAttack>
+                    </ring>
+                    <armour>
+                        <name>Armr1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>5</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>Dexterity</modifierInForce>
+                    </armour>
+                    <weapon>
+                        <name>Weapon 1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>5</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>damage</modifierInForce>
+                        <attackRange>0</attackRange>
+                        <attackPts>0</attackPts>
+                    </weapon>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>16</key>
+                <value>
+                    <chest>false</chest>
+                    <location>16</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>23</key>
+                <value>
+                    <chest>false</chest>
+                    <location>23</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>24</key>
+                <value>
+                    <chest>false</chest>
+                    <location>24</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>30</key>
+                <value>
+                    <chest>false</chest>
+                    <location>30</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>31</key>
+                <value>
+                    <chest>false</chest>
+                    <location>31</location>
+                    <endTile>true</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+        </pathMap>
+        <userLocation>
+            <entry>
+                <key>0</key>
+                <value>8</value>
+            </entry>
+        </userLocation>
+        <rows>7</rows>
+        <columns>7</columns>
+    </mapList>
+    <mapList>
+        <mapName>thisisthelatest</mapName>
+        <pathMap>
+            <entry>
+                <key>1</key>
+                <value>
+                    <chest>false</chest>
+                    <location>1</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>8</key>
+                <value>
+                    <chest>true</chest>
+                    <location>8</location>
+                    <ring>
+                        <name>Ring1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>5</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>0</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>Wisdom</modifierInForce>
+                        <incHealth>0</incHealth>
+                        <incArmour>0</incArmour>
+                        <incAttack>0</incAttack>
+                    </ring>
+                    <armour>
+                        <name>Armr1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>5</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>Dexterity</modifierInForce>
+                    </armour>
+                    <weapon>
+                        <name>Weapon 1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>5</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>damage</modifierInForce>
+                        <attackRange>0</attackRange>
+                        <attackPts>0</attackPts>
+                    </weapon>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>9</key>
+                <value>
+                    <chest>false</chest>
+                    <location>9</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>10</key>
+                <value>
+                    <chest>true</chest>
+                    <location>10</location>
+                    <ring>
+                        <name>Ring1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>5</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>0</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>Wisdom</modifierInForce>
+                        <incHealth>0</incHealth>
+                        <incArmour>0</incArmour>
+                        <incAttack>0</incAttack>
+                    </ring>
+                    <armour>
+                        <name>Armr1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>5</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>Dexterity</modifierInForce>
+                    </armour>
+                    <weapon>
+                        <name>Weapon 1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>5</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>damage</modifierInForce>
+                        <attackRange>0</attackRange>
+                        <attackPts>0</attackPts>
+                    </weapon>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>16</key>
+                <value>
+                    <chest>false</chest>
+                    <location>16</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>23</key>
+                <value>
+                    <chest>false</chest>
+                    <location>23</location>
+                    <player>
+                        <type>Bully</type>
+                        <imagePath>Hero1.gif</imagePath>
+                        <name>Akash</name>
+                        <health>48</health>
+                        <constitutionModifier>2</constitutionModifier>
+                        <strengthModifier>3</strengthModifier>
+                        <dexterityModifier>0</dexterityModifier>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <charismaModifier>0</charismaModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <level>3</level>
+                        <strength>17</strength>
+                        <constitution>14</constitution>
+                        <intelligence>15</intelligence>
+                        <charisma>20</charisma>
+                        <vitality>0</vitality>
+                        <inventory>
+                            <equippedWeapon>
+<name>Weapons</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>0</armourPts>
+<weaponType>Melee Weapon</weaponType>
+<attackRange>2</attackRange>
+<attackPts>2</attackPts>
+                            </equippedWeapon>
+                            <chest>
+<name>Armourr</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>4</armourPts>
+<armourType>chest</armourType>
+                            </chest>
+                            <shield>
+<name>Armour</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>2</armourPts>
+<armourType>helmet</armourType>
+                            </shield>
+                            <items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="weapon">
+<name>Weaponsss</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>0</armourPts>
+<weaponType>Ranged Weapon</weaponType>
+<attackRange>2</attackRange>
+<attackPts>2</attackPts>
+                            </items>
+                        </inventory>
+                        <dexterity>10</dexterity>
+                        <wisdom>13</wisdom>
+                        <attackedByPlayer>false</attackedByPlayer>
+                    </player>
+                    <endTile>false</endTile>
+                    <startTile>true</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>24</key>
+                <value>
+                    <chest>false</chest>
+                    <location>24</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>30</key>
+                <value>
+                    <chest>false</chest>
+                    <location>30</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>31</key>
+                <value>
+                    <chest>false</chest>
+                    <location>31</location>
+                    <endTile>true</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+        </pathMap>
+        <userLocation>
+            <entry>
+                <key>0</key>
+                <value>23</value>
+            </entry>
+        </userLocation>
+        <rows>7</rows>
+        <columns>7</columns>
+    </mapList>
+    <mapList>
+        <pathMap>
+            <entry>
+                <key>1</key>
+                <value>
+                    <chest>false</chest>
+                    <location>1</location>
+                    <player>
+                        <type>Bully</type>
+                        <imagePath>Hero1.gif</imagePath>
+                        <name>Akash</name>
+                        <health>51</health>
+                        <constitutionModifier>2</constitutionModifier>
+                        <strengthModifier>3</strengthModifier>
+                        <dexterityModifier>0</dexterityModifier>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <charismaModifier>0</charismaModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <level>3</level>
+                        <strength>17</strength>
+                        <constitution>14</constitution>
+                        <intelligence>15</intelligence>
+                        <charisma>20</charisma>
+                        <vitality>0</vitality>
+                        <inventory>
+                            <equippedWeapon>
+<name>Weapons</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>0</armourPts>
+<weaponType>Melee Weapon</weaponType>
+<attackRange>2</attackRange>
+<attackPts>2</attackPts>
+                            </equippedWeapon>
+                            <chest>
+<name>Armourr</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>4</armourPts>
+<armourType>chest</armourType>
+                            </chest>
+                            <shield>
+<name>Armour</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>2</armourPts>
+<armourType>helmet</armourType>
+                            </shield>
+                            <items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="weapon">
+<name>Weaponsss</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>0</armourPts>
+<weaponType>Ranged Weapon</weaponType>
+<attackRange>2</attackRange>
+<attackPts>2</attackPts>
+                            </items>
+                        </inventory>
+                        <dexterity>10</dexterity>
+                        <wisdom>13</wisdom>
+                        <attackedByPlayer>false</attackedByPlayer>
+                    </player>
+                    <endTile>false</endTile>
+                    <startTile>true</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>8</key>
+                <value>
+                    <chest>true</chest>
+                    <location>8</location>
+                    <ring>
+                        <name>Ring1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>5</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>0</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>Wisdom</modifierInForce>
+                        <incHealth>0</incHealth>
+                        <incArmour>0</incArmour>
+                        <incAttack>0</incAttack>
+                    </ring>
+                    <armour>
+                        <name>Armr1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>5</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>Dexterity</modifierInForce>
+                    </armour>
+                    <weapon>
+                        <name>Weapon 1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>5</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>damage</modifierInForce>
+                        <attackRange>0</attackRange>
+                        <attackPts>0</attackPts>
+                    </weapon>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>9</key>
+                <value>
+                    <chest>false</chest>
+                    <location>9</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>10</key>
+                <value>
+                    <chest>true</chest>
+                    <location>10</location>
+                    <ring>
+                        <name>Ring1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>5</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>0</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>Wisdom</modifierInForce>
+                        <incHealth>0</incHealth>
+                        <incArmour>0</incArmour>
+                        <incAttack>0</incAttack>
+                    </ring>
+                    <armour>
+                        <name>Armr1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>5</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>Dexterity</modifierInForce>
+                    </armour>
+                    <weapon>
+                        <name>Weapon 1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>5</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>damage</modifierInForce>
+                        <attackRange>0</attackRange>
+                        <attackPts>0</attackPts>
+                    </weapon>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>16</key>
+                <value>
+                    <chest>false</chest>
+                    <location>16</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>23</key>
+                <value>
+                    <chest>false</chest>
+                    <location>23</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>24</key>
+                <value>
+                    <chest>false</chest>
+                    <location>24</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>30</key>
+                <value>
+                    <chest>false</chest>
+                    <location>30</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>31</key>
+                <value>
+                    <chest>false</chest>
+                    <location>31</location>
+                    <endTile>true</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+        </pathMap>
+        <userLocation>
+            <entry>
+                <key>0</key>
+                <value>1</value>
+            </entry>
+        </userLocation>
+        <rows>7</rows>
+        <columns>7</columns>
+    </mapList>
+    <mapList>
+        <pathMap>
+            <entry>
+                <key>1</key>
+                <value>
+                    <chest>false</chest>
+                    <location>1</location>
+                    <player>
+                        <type>Bully</type>
+                        <imagePath>Hero1.gif</imagePath>
+                        <name>Akash</name>
+                        <health>54</health>
+                        <constitutionModifier>2</constitutionModifier>
+                        <strengthModifier>3</strengthModifier>
+                        <dexterityModifier>0</dexterityModifier>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <charismaModifier>0</charismaModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <level>3</level>
+                        <strength>17</strength>
+                        <constitution>14</constitution>
+                        <intelligence>15</intelligence>
+                        <charisma>20</charisma>
+                        <vitality>0</vitality>
+                        <inventory>
+                            <equippedWeapon>
+<name>Weapons</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>0</armourPts>
+<weaponType>Melee Weapon</weaponType>
+<attackRange>2</attackRange>
+<attackPts>2</attackPts>
+                            </equippedWeapon>
+                            <chest>
+<name>Armourr</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>4</armourPts>
+<armourType>chest</armourType>
+                            </chest>
+                            <shield>
+<name>Armour</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>2</armourPts>
+<armourType>helmet</armourType>
+                            </shield>
+                            <items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="weapon">
+<name>Weaponsss</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>0</armourPts>
+<weaponType>Ranged Weapon</weaponType>
+<attackRange>2</attackRange>
+<attackPts>2</attackPts>
+                            </items>
+                        </inventory>
+                        <dexterity>10</dexterity>
+                        <wisdom>13</wisdom>
+                        <attackedByPlayer>false</attackedByPlayer>
+                    </player>
+                    <endTile>false</endTile>
+                    <startTile>true</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>8</key>
+                <value>
+                    <chest>true</chest>
+                    <location>8</location>
+                    <ring>
+                        <name>Ring1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>5</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>0</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>Wisdom</modifierInForce>
+                        <incHealth>0</incHealth>
+                        <incArmour>0</incArmour>
+                        <incAttack>0</incAttack>
+                    </ring>
+                    <armour>
+                        <name>Armr1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>5</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>Dexterity</modifierInForce>
+                    </armour>
+                    <weapon>
+                        <name>Weapon 1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>5</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>damage</modifierInForce>
+                        <attackRange>0</attackRange>
+                        <attackPts>0</attackPts>
+                    </weapon>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>9</key>
+                <value>
+                    <chest>false</chest>
+                    <location>9</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>10</key>
+                <value>
+                    <chest>true</chest>
+                    <location>10</location>
+                    <ring>
+                        <name>Ring1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>5</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>0</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>Wisdom</modifierInForce>
+                        <incHealth>0</incHealth>
+                        <incArmour>0</incArmour>
+                        <incAttack>0</incAttack>
+                    </ring>
+                    <armour>
+                        <name>Armr1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>5</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>Dexterity</modifierInForce>
+                    </armour>
+                    <weapon>
+                        <name>Weapon 1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>5</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>damage</modifierInForce>
+                        <attackRange>0</attackRange>
+                        <attackPts>0</attackPts>
+                    </weapon>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>16</key>
+                <value>
+                    <chest>false</chest>
+                    <location>16</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>23</key>
+                <value>
+                    <chest>false</chest>
+                    <location>23</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>24</key>
+                <value>
+                    <chest>false</chest>
+                    <location>24</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>30</key>
+                <value>
+                    <chest>false</chest>
+                    <location>30</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>31</key>
+                <value>
+                    <chest>false</chest>
+                    <location>31</location>
+                    <endTile>true</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+        </pathMap>
+        <userLocation>
+            <entry>
+                <key>0</key>
+                <value>1</value>
+            </entry>
+        </userLocation>
+        <rows>7</rows>
+        <columns>7</columns>
+    </mapList>
+    <mapList>
+        <pathMap>
+            <entry>
+                <key>1</key>
+                <value>
+                    <chest>false</chest>
+                    <location>1</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>8</key>
+                <value>
+                    <chest>true</chest>
+                    <location>8</location>
+                    <ring>
+                        <name>Ring1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>5</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>0</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>Wisdom</modifierInForce>
+                        <incHealth>0</incHealth>
+                        <incArmour>0</incArmour>
+                        <incAttack>0</incAttack>
+                    </ring>
+                    <armour>
+                        <name>Armr1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>5</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>Dexterity</modifierInForce>
+                    </armour>
+                    <weapon>
+                        <name>Weapon 1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>5</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>damage</modifierInForce>
+                        <attackRange>0</attackRange>
+                        <attackPts>0</attackPts>
+                    </weapon>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>9</key>
+                <value>
+                    <chest>false</chest>
+                    <location>9</location>
+                    <player>
+                        <type>Bully</type>
+                        <imagePath>Hero1.gif</imagePath>
+                        <name>Akash</name>
+                        <health>51</health>
+                        <constitutionModifier>2</constitutionModifier>
+                        <strengthModifier>3</strengthModifier>
+                        <dexterityModifier>0</dexterityModifier>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <charismaModifier>0</charismaModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <level>3</level>
+                        <strength>17</strength>
+                        <constitution>14</constitution>
+                        <intelligence>15</intelligence>
+                        <charisma>20</charisma>
+                        <vitality>0</vitality>
+                        <inventory>
+                            <equippedWeapon>
+<name>Weapons</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>0</armourPts>
+<weaponType>Melee Weapon</weaponType>
+<attackRange>2</attackRange>
+<attackPts>2</attackPts>
+                            </equippedWeapon>
+                            <chest>
+<name>Armourr</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>4</armourPts>
+<armourType>chest</armourType>
+                            </chest>
+                            <shield>
+<name>Armour</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>2</armourPts>
+<armourType>helmet</armourType>
+                            </shield>
+                            <items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="weapon">
+<name>Weaponsss</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>0</armourPts>
+<weaponType>Ranged Weapon</weaponType>
+<attackRange>2</attackRange>
+<attackPts>2</attackPts>
+                            </items>
+                        </inventory>
+                        <dexterity>10</dexterity>
+                        <wisdom>13</wisdom>
+                        <attackedByPlayer>false</attackedByPlayer>
+                    </player>
+                    <endTile>false</endTile>
+                    <startTile>true</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>10</key>
+                <value>
+                    <chest>true</chest>
+                    <location>10</location>
+                    <ring>
+                        <name>Ring1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>5</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>0</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>Wisdom</modifierInForce>
+                        <incHealth>0</incHealth>
+                        <incArmour>0</incArmour>
+                        <incAttack>0</incAttack>
+                    </ring>
+                    <armour>
+                        <name>Armr1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>5</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>Dexterity</modifierInForce>
+                    </armour>
+                    <weapon>
+                        <name>Weapon 1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>5</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>damage</modifierInForce>
+                        <attackRange>0</attackRange>
+                        <attackPts>0</attackPts>
+                    </weapon>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>16</key>
+                <value>
+                    <chest>false</chest>
+                    <location>16</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>23</key>
+                <value>
+                    <chest>false</chest>
+                    <location>23</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>24</key>
+                <value>
+                    <chest>false</chest>
+                    <location>24</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>30</key>
+                <value>
+                    <chest>false</chest>
+                    <location>30</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>31</key>
+                <value>
+                    <chest>false</chest>
+                    <location>31</location>
+                    <endTile>true</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+        </pathMap>
+        <userLocation>
+            <entry>
+                <key>0</key>
+                <value>9</value>
+            </entry>
+        </userLocation>
+        <rows>7</rows>
+        <columns>7</columns>
+    </mapList>
+    <mapList>
+        <pathMap>
+            <entry>
+                <key>1</key>
+                <value>
+                    <chest>false</chest>
+                    <location>1</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>8</key>
+                <value>
+                    <chest>true</chest>
+                    <location>8</location>
+                    <ring>
+                        <name>Ring1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>5</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>0</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>Wisdom</modifierInForce>
+                        <incHealth>0</incHealth>
+                        <incArmour>0</incArmour>
+                        <incAttack>0</incAttack>
+                    </ring>
+                    <armour>
+                        <name>Armr1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>5</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>Dexterity</modifierInForce>
+                    </armour>
+                    <weapon>
+                        <name>Weapon 1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>5</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>damage</modifierInForce>
+                        <attackRange>0</attackRange>
+                        <attackPts>0</attackPts>
+                    </weapon>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>9</key>
+                <value>
+                    <chest>false</chest>
+                    <location>9</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>10</key>
+                <value>
+                    <chest>true</chest>
+                    <location>10</location>
+                    <ring>
+                        <name>Ring1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>5</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>0</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>Wisdom</modifierInForce>
+                        <incHealth>0</incHealth>
+                        <incArmour>0</incArmour>
+                        <incAttack>0</incAttack>
+                    </ring>
+                    <armour>
+                        <name>Armr1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>5</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>Dexterity</modifierInForce>
+                    </armour>
+                    <weapon>
+                        <name>Weapon 1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>5</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>damage</modifierInForce>
+                        <attackRange>0</attackRange>
+                        <attackPts>0</attackPts>
+                    </weapon>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>16</key>
+                <value>
+                    <chest>false</chest>
+                    <location>16</location>
+                    <player>
+                        <type>Bully</type>
+                        <imagePath>Hero1.gif</imagePath>
+                        <name>Akash</name>
+                        <health>47</health>
+                        <constitutionModifier>2</constitutionModifier>
+                        <strengthModifier>3</strengthModifier>
+                        <dexterityModifier>0</dexterityModifier>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <charismaModifier>0</charismaModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <level>3</level>
+                        <strength>17</strength>
+                        <constitution>14</constitution>
+                        <intelligence>15</intelligence>
+                        <charisma>20</charisma>
+                        <vitality>0</vitality>
+                        <inventory>
+                            <equippedWeapon>
+<name>Weapons</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>0</armourPts>
+<weaponType>Melee Weapon</weaponType>
+<attackRange>2</attackRange>
+<attackPts>2</attackPts>
+                            </equippedWeapon>
+                            <chest>
+<name>Armourr</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>4</armourPts>
+<armourType>chest</armourType>
+                            </chest>
+                            <shield>
+<name>Armour</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>2</armourPts>
+<armourType>helmet</armourType>
+                            </shield>
+                            <items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="weapon">
+<name>Weaponsss</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>0</armourPts>
+<weaponType>Ranged Weapon</weaponType>
+<attackRange>2</attackRange>
+<attackPts>2</attackPts>
+                            </items>
+                        </inventory>
+                        <dexterity>10</dexterity>
+                        <wisdom>13</wisdom>
+                        <attackedByPlayer>false</attackedByPlayer>
+                    </player>
+                    <endTile>false</endTile>
+                    <startTile>true</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>23</key>
+                <value>
+                    <chest>false</chest>
+                    <location>23</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>24</key>
+                <value>
+                    <chest>false</chest>
+                    <location>24</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>30</key>
+                <value>
+                    <chest>false</chest>
+                    <location>30</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>31</key>
+                <value>
+                    <chest>false</chest>
+                    <location>31</location>
+                    <endTile>true</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+        </pathMap>
+        <userLocation>
+            <entry>
+                <key>0</key>
+                <value>16</value>
+            </entry>
+        </userLocation>
+        <rows>7</rows>
+        <columns>7</columns>
+    </mapList>
+    <mapList>
+        <pathMap>
+            <entry>
+                <key>1</key>
+                <value>
+                    <chest>false</chest>
+                    <location>1</location>
+                    <player>
+                        <type>Bully</type>
+                        <imagePath>Hero1.gif</imagePath>
+                        <name>Akash</name>
+                        <health>52</health>
+                        <constitutionModifier>2</constitutionModifier>
+                        <strengthModifier>3</strengthModifier>
+                        <dexterityModifier>0</dexterityModifier>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <charismaModifier>0</charismaModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <level>3</level>
+                        <strength>17</strength>
+                        <constitution>14</constitution>
+                        <intelligence>15</intelligence>
+                        <charisma>20</charisma>
+                        <vitality>0</vitality>
+                        <inventory>
+                            <equippedWeapon>
+<name>Weapons</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>0</armourPts>
+<weaponType>Melee Weapon</weaponType>
+<attackRange>2</attackRange>
+<attackPts>2</attackPts>
+                            </equippedWeapon>
+                            <chest>
+<name>Armourr</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>4</armourPts>
+<armourType>chest</armourType>
+                            </chest>
+                            <shield>
+<name>Armour</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>2</armourPts>
+<armourType>helmet</armourType>
+                            </shield>
+                            <items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="weapon">
+<name>Weaponsss</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>0</armourPts>
+<weaponType>Ranged Weapon</weaponType>
+<attackRange>2</attackRange>
+<attackPts>2</attackPts>
+                            </items>
+                        </inventory>
+                        <dexterity>10</dexterity>
+                        <wisdom>13</wisdom>
+                        <attackedByPlayer>false</attackedByPlayer>
+                    </player>
+                    <endTile>false</endTile>
+                    <startTile>true</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>8</key>
+                <value>
+                    <chest>true</chest>
+                    <location>8</location>
+                    <ring>
+                        <name>Ring1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>5</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>0</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>Wisdom</modifierInForce>
+                        <incHealth>0</incHealth>
+                        <incArmour>0</incArmour>
+                        <incAttack>0</incAttack>
+                    </ring>
+                    <armour>
+                        <name>Armr1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>5</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>Dexterity</modifierInForce>
+                    </armour>
+                    <weapon>
+                        <name>Weapon 1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>5</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>damage</modifierInForce>
+                        <attackRange>0</attackRange>
+                        <attackPts>0</attackPts>
+                    </weapon>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>9</key>
+                <value>
+                    <chest>false</chest>
+                    <location>9</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>10</key>
+                <value>
+                    <chest>true</chest>
+                    <location>10</location>
+                    <ring>
+                        <name>Ring1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>5</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>0</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>Wisdom</modifierInForce>
+                        <incHealth>0</incHealth>
+                        <incArmour>0</incArmour>
+                        <incAttack>0</incAttack>
+                    </ring>
+                    <armour>
+                        <name>Armr1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>5</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>Dexterity</modifierInForce>
+                    </armour>
+                    <weapon>
+                        <name>Weapon 1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>5</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>damage</modifierInForce>
+                        <attackRange>0</attackRange>
+                        <attackPts>0</attackPts>
+                    </weapon>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>16</key>
+                <value>
+                    <chest>false</chest>
+                    <location>16</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>23</key>
+                <value>
+                    <chest>false</chest>
+                    <location>23</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>24</key>
+                <value>
+                    <chest>false</chest>
+                    <location>24</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>30</key>
+                <value>
+                    <chest>false</chest>
+                    <location>30</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>31</key>
+                <value>
+                    <chest>false</chest>
+                    <location>31</location>
+                    <endTile>true</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+        </pathMap>
+        <userLocation>
+            <entry>
+                <key>0</key>
+                <value>1</value>
+            </entry>
+        </userLocation>
+        <rows>7</rows>
+        <columns>7</columns>
+    </mapList>
+    <mapList>
+        <pathMap>
+            <entry>
+                <key>1</key>
+                <value>
+                    <chest>false</chest>
+                    <location>1</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>8</key>
+                <value>
+                    <chest>true</chest>
+                    <location>8</location>
+                    <ring>
+                        <name>Ring1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>5</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>0</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>Wisdom</modifierInForce>
+                        <incHealth>0</incHealth>
+                        <incArmour>0</incArmour>
+                        <incAttack>0</incAttack>
+                    </ring>
+                    <armour>
+                        <name>Armr1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>5</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>Dexterity</modifierInForce>
+                    </armour>
+                    <weapon>
+                        <name>Weapon 1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>5</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>damage</modifierInForce>
+                        <attackRange>0</attackRange>
+                        <attackPts>0</attackPts>
+                    </weapon>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>9</key>
+                <value>
+                    <chest>false</chest>
+                    <location>9</location>
+                    <player>
+                        <type>Bully</type>
+                        <imagePath>Hero1.gif</imagePath>
+                        <name>Akash</name>
+                        <health>48</health>
+                        <constitutionModifier>2</constitutionModifier>
+                        <strengthModifier>3</strengthModifier>
+                        <dexterityModifier>0</dexterityModifier>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <charismaModifier>0</charismaModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <level>3</level>
+                        <strength>17</strength>
+                        <constitution>14</constitution>
+                        <intelligence>15</intelligence>
+                        <charisma>20</charisma>
+                        <vitality>0</vitality>
+                        <inventory>
+                            <equippedWeapon>
+<name>Weapons</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>0</armourPts>
+<weaponType>Melee Weapon</weaponType>
+<attackRange>2</attackRange>
+<attackPts>2</attackPts>
+                            </equippedWeapon>
+                            <chest>
+<name>Armourr</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>4</armourPts>
+<armourType>chest</armourType>
+                            </chest>
+                            <shield>
+<name>Armour</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>2</armourPts>
+<armourType>helmet</armourType>
+                            </shield>
+                            <items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="weapon">
+<name>Weaponsss</name>
+<itemID>0</itemID>
+<intelligenceModifier>0</intelligenceModifier>
+<wisdomModifier>0</wisdomModifier>
+<strengthModifer>0</strengthModifer>
+<constitutionModifier>0</constitutionModifier>
+<charismaModifer>0</charismaModifer>
+<dexterityModifer>0</dexterityModifer>
+<armourPts>0</armourPts>
+<weaponType>Ranged Weapon</weaponType>
+<attackRange>2</attackRange>
+<attackPts>2</attackPts>
+                            </items>
+                        </inventory>
+                        <dexterity>10</dexterity>
+                        <wisdom>13</wisdom>
+                        <attackedByPlayer>false</attackedByPlayer>
+                    </player>
+                    <endTile>false</endTile>
+                    <startTile>true</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>10</key>
+                <value>
+                    <chest>true</chest>
+                    <location>10</location>
+                    <ring>
+                        <name>Ring1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>5</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>0</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>Wisdom</modifierInForce>
+                        <incHealth>0</incHealth>
+                        <incArmour>0</incArmour>
+                        <incAttack>0</incAttack>
+                    </ring>
+                    <armour>
+                        <name>Armr1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>5</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>Dexterity</modifierInForce>
+                    </armour>
+                    <weapon>
+                        <name>Weapon 1</name>
+                        <itemID>0</itemID>
+                        <intelligenceModifier>0</intelligenceModifier>
+                        <wisdomModifier>0</wisdomModifier>
+                        <strengthModifer>0</strengthModifer>
+                        <constitutionModifier>0</constitutionModifier>
+                        <charismaModifer>0</charismaModifer>
+                        <dexterityModifer>5</dexterityModifer>
+                        <armourPts>0</armourPts>
+                        <modifierInForce>damage</modifierInForce>
+                        <attackRange>0</attackRange>
+                        <attackPts>0</attackPts>
+                    </weapon>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>16</key>
+                <value>
+                    <chest>false</chest>
+                    <location>16</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>23</key>
+                <value>
+                    <chest>false</chest>
+                    <location>23</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>24</key>
+                <value>
+                    <chest>false</chest>
+                    <location>24</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>30</key>
+                <value>
+                    <chest>false</chest>
+                    <location>30</location>
+                    <endTile>false</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+            <entry>
+                <key>31</key>
+                <value>
+                    <chest>false</chest>
+                    <location>31</location>
+                    <endTile>true</endTile>
+                    <startTile>false</startTile>
+                </value>
+            </entry>
+        </pathMap>
+        <userLocation>
+            <entry>
+                <key>0</key>
+                <value>9</value>
+            </entry>
+        </userLocation>
+        <rows>7</rows>
+        <columns>7</columns>
+    </mapList>
+</Map>

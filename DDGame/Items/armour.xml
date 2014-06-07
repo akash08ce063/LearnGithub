@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+    <armour>
+        <name>Armour</name>
+        <itemID>0</itemID>
+        <intelligenceModifier>0</intelligenceModifier>
+        <wisdomModifier>0</wisdomModifier>
+        <strengthModifer>0</strengthModifer>
+        <constitutionModifier>0</constitutionModifier>
+        <charismaModifer>0</charismaModifer>
+        <dexterityModifer>0</dexterityModifer>
+        <armourPts>2</armourPts>
+        <armourType>helmet</armourType>
+    </armour>
+    <armour>
+        <name>Armourr</name>
+        <itemID>0</itemID>
+        <intelligenceModifier>0</intelligenceModifier>
+        <wisdomModifier>0</wisdomModifier>
+        <strengthModifer>0</strengthModifer>
+        <constitutionModifier>0</constitutionModifier>
+        <charismaModifer>0</charismaModifer>
+        <dexterityModifer>0</dexterityModifer>
+        <armourPts>4</armourPts>
+        <armourType>chest</armourType>
+    </armour>
+    <armour>
+        <name>Armourrrrrr</name>
+        <itemID>0</itemID>
+        <intelligenceModifier>0</intelligenceModifier>
+        <wisdomModifier>0</wisdomModifier>
+        <strengthModifer>0</strengthModifer>
+        <constitutionModifier>0</constitutionModifier>
+        <charismaModifer>0</charismaModifer>
+        <dexterityModifer>0</dexterityModifer>
+        <armourPts>4</armourPts>
+        <armourType>shield</armourType>
+    </armour>
+</items>

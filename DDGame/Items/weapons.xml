@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+    <weapon>
+        <name>Weapons</name>
+        <itemID>0</itemID>
+        <intelligenceModifier>0</intelligenceModifier>
+        <wisdomModifier>0</wisdomModifier>
+        <strengthModifer>0</strengthModifer>
+        <constitutionModifier>0</constitutionModifier>
+        <charismaModifer>0</charismaModifer>
+        <dexterityModifer>0</dexterityModifer>
+        <armourPts>0</armourPts>
+        <weaponType>Melee Weapon</weaponType>
+        <attackRange>2</attackRange>
+        <attackPts>2</attackPts>
+    </weapon>
+    <weapon>
+        <name>Weaponsss</name>
+        <itemID>0</itemID>
+        <intelligenceModifier>0</intelligenceModifier>
+        <wisdomModifier>0</wisdomModifier>
+        <strengthModifer>0</strengthModifer>
+        <constitutionModifier>0</constitutionModifier>
+        <charismaModifer>0</charismaModifer>
+        <dexterityModifer>0</dexterityModifer>
+        <armourPts>0</armourPts>
+        <weaponType>Ranged Weapon</weaponType>
+        <attackRange>2</attackRange>
+        <attackPts>2</attackPts>
+    </weapon>
+</items>
